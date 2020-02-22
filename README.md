@@ -1,6 +1,4 @@
 # is219
-Create a tutorial that explains how JavaScript implements each object oriented principle by using example code and a description.  You should have a text article written and accompany it with running code with tests in a Github repo.  You can put your article in the ReadMe.MD file of your repository and you should show the build status of passing from Travis.
-
 Encapsulation:
 When each object keeps its state private inside of a class. Capability of storing related information mutually in a single object. Other objects cannot access this state, and can only call a list of public functions called methods. 
 
