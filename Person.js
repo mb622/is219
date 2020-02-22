@@ -18,6 +18,6 @@ Teacher.prototype.constructor = Teacher;
 
 var maurice = new Teacer("Maurice", "Clifford", "NJIT", "English");
             
-alert(maurice.getFullName()); // James Bond
+alert(maurice.getFullName()); // Maurice Clifford
 alert(maurice instanceof Teacher); // true
 alert(maurice instanceof Person); // true
